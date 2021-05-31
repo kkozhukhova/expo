@@ -1,0 +1,537 @@
+{
+  "seo": {
+    "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you.",
+    "screens": {
+      "discover": {
+        "title": "Discover",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "home": {
+        "title": "Home",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "news": {
+        "title": "News",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "settings": {
+        "title": "Settings",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "setting": {
+        "title": "Setting",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "chat": {
+        "title": "Chat",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "search": {
+        "title": "Search",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "signIn": {
+        "title": "Sign In",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "forgot": {
+        "title": "Forgot Password",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "signUp": {
+        "title": "Sign up",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "signupUsername": {
+        "title": "Sign up",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "brandPreferences": {
+        "title": "Brand Preferences",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "authenticate": {
+        "title": "Authenticate",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "comments": {
+        "title": "Comments",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "seeAll": {
+        "title": "See All",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      }
+    },
+    "posts": {
+      "collection": {
+        "title": "",
+        "description": ""
+      },
+      "story": {
+        "title": "",
+        "description": ""
+      },
+      "topic": {
+        "title": "",
+        "description": ""
+      },
+      "product": {
+        "title": "",
+        "description": ""
+      }
+    },
+    "profile": {
+      "user": {
+        "title": "{username\n        }'s profile on Brandoo",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      },
+      "brand": {
+        "title": "{brand\n        } on Brandoo",
+        "description": "brandoo - Your Brand News Platform. Be the first to hear about official launches of your favorite brands, be inspired by new brands and their products, and see when they are available near you."
+      }
+    }
+  },
+  "page_layout": {
+    "collections": "Collections",
+    "start_following": "Start following",
+    "you_dont_follow_any_brands": "You don't follow any brands",
+    "you_dont_follow_any_users": "You don't follow any users",
+    "you_dont_have_any_collections": "You don't have any collections",
+    "my_liked_and_created_collections": "My liked and created collections",
+    "my_following_brands": "My Following Brands",
+    "my_following_users": "My Following Users",
+    "show_all": "Show All",
+    "discover": "Discover",
+    "home": "Home",
+    "news": "News",
+    "settings": "Settings",
+    "brands": "Brands",
+    "see_all": "See All",
+    "friends_on_brandoo": "Friends on Brandoo",
+    "library": "Library",
+    "more_from_brandoo": "More from Brandoo",
+    "footer": {
+      "about_us": "About us",
+      "customer_support": "Customer support",
+      "legal": "Legal",
+      "for_brands": "For Brands",
+      "are_you_a_brand": "Are you a Brand?",
+      "our_story": "Our story",
+      "carees": "Carees",
+      "mobile_apps": "Mobile apps",
+      "help": "Help",
+      "my_account": "My Account",
+      "contact_us": "Contact us",
+      "terms_of_service": "Terms of service",
+      "copyright_policy": "Copyright policy",
+      "privacy_policy": "Privacy policy",
+      "dashboard": "Dashboard",
+      "sales_team": "Sales team",
+      "faq_for_brands": "FAQ for Brands",
+      "contact_us_for_more_information": "Contact us for more information",
+      "all_rights_reserved": "All Rights Reserved · Version 3.0 (beta)"
+    }
+  },
+  "auth_errors": {
+    "prefix": "An error occurred when trying to connect.",
+    "network_connection": "Please check your internet connection and try again.",
+    "ERR_APPLE_AUTHENTICATION_REQUEST_FAILED": "The authentication request failed.",
+    "ERR_APPLE_AUTHENTICATION_CREDENTIAL": "The request to get credential state failed.",
+    "ERR_APPLE_AUTHENTICATION_UNAVAILABLE": "Apple authentication is unavailable on the device.",
+    "ok": "Ok"
+  },
+  "alert": {
+    "delete_comment_title": "Delete your comment?",
+    "delete_comment_confirmation": "Do you really want to delete your comment? This is permanent.",
+    "delete_collection_title": "Delete your collection?",
+    "delete_collection_confirmation": "Do you really want to delete your collection? This is permanent.",
+    "delete_search_request_title": "Delete Search Request?",
+    "delete_search_request_confirmation": "Do you really want to delete your search request? This is permanent.",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "not_now": "Not Now"
+  },
+  "action_sheet": {
+    "create_collection": "Create Collection",
+    "delete": "Delete",
+    "edit": "Edit",
+    "cancel": "Cancel",
+    "take_picture": "Take a picture",
+    "choose_from_library": "Choose from library",
+    "share": "Share",
+    "copy": "Copy",
+    "read": "Read",
+    "read_all": "Read All"
+  },
+  "date": {
+    "just_now": "now",
+    "minutes": "minutes",
+    "hours": "hours",
+    "days": "days",
+    "relative": {
+      "today": "Today",
+      "yesterday": "Yesterday",
+      "last_week": "Last week",
+      "last_month": "Last month",
+      "older": "Older"
+    }
+  },
+  "button": {
+    "add": "Add",
+    "added": "Added",
+    "show_more": "Show more",
+    "load_more": "Load more"
+  },
+  "errors": {
+    "no_comments": "No comments yet. Be the first to comment...",
+    "no_data": "No Data",
+    "no_chats": "No Chats",
+    "common": "Something went wrong",
+    "by_id": "ENTITY doesn't exist",
+    "go_back": "Go back",
+    "screen_not_exist": "This screen doesn't exist",
+    "go_home": "Go to home screen!"
+  },
+  "post_actions": {
+    "website": "Website",
+    "share": "Share",
+    "comment": "Comment",
+    "comments": "Comments"
+  },
+  "search": {
+    "empty_request": "No Search Requests",
+    "all_hint": "You can search for Collections, Brands & Products.",
+    "happy_search": "Happy Searching!",
+    "empty_result": "Nothing found",
+    "empty_result_hint": "There is nothing to show for \"QUERY\". Try typing something else",
+    "last_search_requests_title": "Last Search Requests",
+    "edit_last_results": "Edit"
+  },
+  "chat": {
+    "send": "Send",
+    "select_chat": "Select a chat to start messaging",
+    "no_chats": "No Chats"
+  },
+  "topic": {
+    "monthly_title": "Topics this Month"
+  },
+  "post": {
+    "you_are_in_draft_mode": "You are in draft mode. Only you can see this page.",
+    "back_to": "Back to",
+    "admin_page": "Admin Page",
+    "reading_time": "Min Reading Time",
+    "brands": "Brands",
+    "categories": "Categories",
+    "featured_collections": "Featured Collections",
+    "top_collections": "Top Collections",
+    "top_products": "Top Products",
+    "stories": "Stories"
+  },
+  "create_collection": {
+    "name": "Name",
+    "description": "Description",
+    "add_your_collection_name": "Add your collection name",
+    "add_your_collection_description": "Add your collection description",
+    "yes": "Yes",
+    "keep_private": "I want to keep this collection private",
+    "create_collection": "Create Collection",
+    "title": "Give your collection a name.",
+    "save_changes": "Save Changes",
+    "no_collection": "No Collections",
+    "you_can_create_collection": "Collections you create appear here. You can create your first collection using the button above.",
+    "cancel": "Cancel"
+  },
+  "edit_collection": {
+    "update_collection": "Update Collection",
+    "edit_description": "Edit Description",
+    "add_stories": "Add/Remove Stories",
+    "add_products": "Add/Remove Products",
+    "delete": "Delete",
+    "cancel": "Cancel",
+    "done": "Done"
+  },
+  "footer": {
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "advertising": "Advertising",
+    "ad_choices": "Ad Choices",
+    "cookies": "Cookies"
+  },
+  "profile": {
+    "empty": "Your profile is empty",
+    "more_to_explore": "There is more to explore",
+    "add": "Add XY",
+    "attach_items": "You don't have any XY attached to your profile.",
+    "explore_world": "Explore the world of brands on Brandoo here.",
+    "discover": "Discover",
+    "create_collection": "Create Collection"
+  },
+  "news": {
+    "posted": "posted",
+    "tooltip_info": "This text was automatically created from the brand's description, for more information visit their brand profile.",
+    "who_to_follow": "Who to follow?",
+    "topics_this_month": "Topics this month"
+  },
+  "topics": {
+    "title": "Topics",
+    "preview_by": "by"
+  },
+  "settings": {
+    "update_email": "Update E-Mail",
+    "show_safe_content": "Only show safe content to me",
+    "header": "Settings",
+    "sections_title_1": "Profile",
+    "sections_title_2": "Other",
+    "name": "Name",
+    "description": "Description",
+    "name_and_description": "Name & Description",
+    "username": "Username",
+    "email": "E-Mail",
+    "password": "Password",
+    "new_password": "New password",
+    "private_profile_yes": "Yes,",
+    "private_profile_text": "I want to keep my profile private.",
+    "staging_area": "Staging Area",
+    "testing_area": "Testing Area",
+    "legal_information": "Legal Information",
+    "logout": "Logout",
+    "save_changes": "Save Changes",
+    "errors": {
+      "username": "This username is not valid.",
+      "email": "This e-mail address is not valid.",
+      "password": "Please use a strong password with at least 8 figures."
+    },
+    "email_is_verified": "E-Mail is verified",
+    "email_is_verified_warning": "Your email has been verified. When you change your email, you have to verify it again.",
+    "email_not_verified": "E-Mail not verified",
+    "email_not_verified_warning": "Your email address is not yet verified. Please confirm it now or enter the code below.",
+    "verification_code_six_digits": "Verification code (6 digits)",
+    "verify_email": "Verify E-Mail",
+    "resend_verification_code": "Resend verification email",
+    "terms_of_services": "Terms of Services",
+    "privacy_policy": "Privacy Policy"
+  },
+  "authorization_common": {
+    "sign_up_with_email": "Sign up with email",
+    "facebook": "Login With Facebook",
+    "apple": "Login With Apple"
+  },
+  "authorization_web": {
+    "login": "Login",
+    "initial_auth_screen_title": "Your favorite brands. Free on Brandoo",
+    "login_to_account": "Login to your account",
+    "go_to_profile": "Go to your profile",
+    "new_at_brandoo": "New at Brandoo?",
+    "register_account": "Register your account",
+    "join_community": "Join our community now.",
+    "have_account": "Already have an account?",
+    "need_assistance": "Need Assistance?",
+    "we_are_here_help_you": "We are here to help you.",
+    "enter_your_email_first": "Enter your e-mail address first. ",
+    "check_your_security": "Now check your security.",
+    "check_your_password": "And enter your password.",
+    "let_us_know_each_other": "Let's know each other.",
+    "tell_us_your_name": "Tell us your name",
+    "next": "Next",
+    "select_your_favorite_brands": "Select your favorite brands.",
+    "change_afterwards": "You can change everything afterwards.",
+    "complete_registration": "Complete Registration",
+    "enter_your_name": "Enter your name",
+    "enter_your_password": "Enter your password",
+    "enter_your_email": "Enter your email",
+    "finish": "Finish",
+    "sign_up": "Sign Up"
+  },
+  "authorization_mobile": {
+    "sign_in": "Sign In",
+    "choose_one_brand": "Choose at least one brand",
+    "skip": "Skip",
+    "following": "Following",
+    "next": "Next",
+    "hello": "Hello",
+    "select_username": "now select your individual username",
+    "continue": "Continue",
+    "register_for_free": "Register for free",
+    "username": "Username",
+    "fullname": "Full name",
+    "phone": "Phone",
+    "login_for_brandoo": "Log in for Brandoo",
+    "sign_up_for_brandoo": "Sign up for Brandoo",
+    "email_address": "E-mail address",
+    "password": "Password",
+    "login_with_creds": "Log in to your Brandoo account with your credentials.",
+    "signup_with_creds": "Sign up for a Brandoo account.",
+    "slogan": "Your favorite brands. Free on Brandoo",
+    "sign_up_with_email": "Sign up with email",
+    "existing_account": "Already have an account?",
+    "log_in": "Sign in",
+    "the_best_of_brands": "The best of brands.",
+    "curated_every_day": "Curated, every day.",
+    "by_signup_you_agree_terms_prefix": "By signing up, you agree to our",
+    "by_signup_you_agree_terms_postfix": "Terms of Service",
+    "sign_up": "Sign Up",
+    "finish": "Finish",
+    "login": "Login"
+  },
+  "home": {
+    "all_brands": "All Brands",
+    "followed_users": "Followed Users",
+    "see_all": "See All",
+    "all_collections": "All Collections",
+    "all_products": "All Products",
+    "all_stories": "All Stories",
+    "all_topics": "All Topics"
+  },
+  "forgot_password": {
+    "title": "Forgot your password?",
+    "email_address": "What is your e-mail address?",
+    "disclaimer": "We will send you an e-mail with a verification code, with this you can reset your password. ",
+    "request_code": "Request Code"
+  },
+  "reset_password": {
+    "forgot_password": "Forgot password?",
+    "title": "Verification",
+    "set_new_password": "Set your new password.",
+    "whats_code": "What's your code?",
+    "enter_code": "Enter the code sent to",
+    "save_password": "Save Password",
+    "resend_code": "Resend Code",
+    "password_requirements": "Please use a strong password with at least 8 figures.",
+    "continue": "Continue"
+  },
+  "forgot_password_web": {
+    "enter_your_email": "Enter your e-mail",
+    "enter_your_password": "Enter your password",
+    "title": "Forgot your password",
+    "enter_email": "Forgot your password",
+    "enter_email_disclaimer": "Enter your e-mail address and we'll mail you new instructions",
+    "next": "Next",
+    "enter_password": "Set a new password",
+    "enter_password_disclaimer": "Please make sure that it's strong enough.",
+    "whats_code": "What's your code?",
+    "enter_code": "Enter the code sent to"
+  },
+  "post_reporting": {
+    "share": "Share",
+    "ok": "OK",
+    "yes": "Yes",
+    "no": "No",
+    "report": "Report content",
+    "hide_content": "Do you want to hide this content?",
+    "hours_to_review": "This content will be reported and reviewed within 24 hours.",
+    "hidden_from_you": "Your report has been sent, the content will now be hidden for you.",
+    "hidden_yes": "We will review your report within 24 hours",
+    "not_hidden_from_you": "Your report has been sent.",
+    "hidden_not": "We will review your report within 24 hours.",
+    "cancel": "Cancel"
+  },
+  "terms_update": {
+    "initial_warning": "Terms and Conditions",
+    "initial_agree": "You have to carefully read and agree to our terms and conditions before using our services.",
+    "we_updated_terms": "We’ve updated our terms and conditions.",
+    "read_carefully": "Please read it carefully and agree to continue using our services.",
+    "read_terms": "Read terms",
+    "agree": "Agree"
+  },
+  "user_blocking": {
+    "blocked": "Blocked",
+    "block_this_user": "Block this user",
+    "unblock_this_user": "Unblock this user",
+    "cancel": "Cancel",
+    "are_you_sure_block": "Are you sure to block this user?",
+    "are_you_sure_unblock": "Are you sure to unblock this user?",
+    "forbid_write": "It won’t be possible for this user to write you again.",
+    "allow_write": "It will be possible for this user to write you again.",
+    "has_blocked": "User has been blocked",
+    "has_unblocked": "User has been unblocked",
+    "ok": "OK",
+    "yes": "Yes",
+    "no": "No"
+  },
+  "media_uploading": {
+    "remember": "When selecting media, please be careful not to upload objectionable content.",
+    "will_review": "We will review any content uploaded and any user can report your content as inappropriate. If you upload objectionable content, you can be blocked from this platform.",
+    "see_terms": "See terms",
+    "ok": "OK"
+  },
+  "ucg_terms": {
+    "comments": "Remember to keep comments respectful and to follow our",
+    "collection_creation": "Remember to keep collection content respectful and to follow our",
+    "terms_and_conditions": "Terms and Conditions"
+  },
+  "product": {
+    "show_on_website": "Show on the website"
+  },
+  "collection": {
+    "by": "by"
+  },
+  "brand": {
+    "collections": "Collections",
+    "products": "Products",
+    "stories": "Stories",
+    "current_products": "Current Products",
+    "current_stories": "Current Stories"
+  },
+  "modal": {
+    "added_to": "Added to",
+    "detached_from": "Detached from",
+    "could_not_add": "Could not add to"
+  },
+  "createThread": "Create dialog",
+  "searchInput": "Search...",
+  "signIn": "Sign In",
+  "continue": "Continue",
+  "yourEmailAddressForgot": "Your e-mail address",
+  "yourEmailAddress": "E-mail or username",
+  "password": "Password",
+  "signInValidationError": "The combination of email address and password is incorrect.",
+  "emailExists": "This e-mail address is already\nconnected to a profile.",
+  "loginSuggestion": "Do you want to login instead?",
+  "login": "Login",
+  "close": "Close",
+  "whatIsYourEmailAddress": "What is your e-mail address?",
+  "createYourPassword": "Create your password",
+  "whatIsYourName": "Hi, what's your name?",
+  "disclaimerPrivacyPolicy": "If you want to know more how Brandoo will save personalised data,\nplease read our terms of services.",
+  "selectPreferences": "Select 3 or more Brands which you like or love.",
+  "changePreferences": "You can always change your preferences\nin the settings screen",
+  "passwordRequirements": "Please use a strong password with at least 8 figures.",
+  "termsOfServices": "terms of services.",
+  "usernameWillBeShown": "This will be shown on your Brandoo profile page.",
+  "confirmEmailAfterwards": "You have to confirm your e-mail afterwards again.",
+  "emailIsNotValid": "This e-mail address is not valid.",
+  "yourBrands": "Your Brands",
+  "yourCollections": "Your Collections",
+  "yourProducts": "Products you like",
+  "yourStories": "Stories you like",
+  "yourTopics": "Topics you followed",
+  "somethingWentWrong": "Something went wrong",
+  "spotlights": "In the spotlight",
+  "testimonials": "Testimonials",
+  "recentDiscoveries": "Recent Discoveries",
+  "all": "View all",
+  "more": "More",
+  "moreProducts": "More by",
+  "moreBy": "More by",
+  "moreProductsFrom": "More products by",
+  "inCollection": "in Collection",
+  "by": "by",
+  "follow": "Follow",
+  "followed": "Followed",
+  "like": "Like",
+  "liked": "Liked",
+  "topCollections": "Top Collections",
+  "currentProducts": "Current Products",
+  "moreCollections": "Collections",
+  "information": "Information",
+  "allCollections": "All Collections",
+  "allProducts": "All Products",
+  "products": "Products",
+  "productsBy": "Products by",
+  "stories": "Stories",
+  "storiesBy": "Stories by",
+  "collections": "Collections",
+  "collectionsBy": "Collections by",
+  "brands": "Brands"
+}
